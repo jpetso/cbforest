@@ -16,7 +16,7 @@
 #ifndef CBForest_Error_h
 #define CBForest_Error_h
 
-#include "forestdb.h"
+#include <libforestdb/forestdb.h>
 
 namespace forestdb {
 

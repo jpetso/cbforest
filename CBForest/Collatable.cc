@@ -14,7 +14,7 @@
 //  and limitations under the License.
 
 #include "Collatable.hh"
-#include "forestdb_endian.h"
+#include "../vendor/forestdb/src/forestdb_endian.h"
 #include <sstream>
 
 namespace forestdb {

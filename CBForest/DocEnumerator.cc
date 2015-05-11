@@ -15,9 +15,9 @@
 
 #include "DocEnumerator.hh"
 #include "LogInternal.hh"
-#include "forestdb.h"
 #include <algorithm>
 #include <assert.h>
+#include <libforestdb/forestdb.h>
 #include <limits.h>
 #include <string.h>
 

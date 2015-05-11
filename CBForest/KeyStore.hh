@@ -10,8 +10,8 @@
 #define __CBForest__KeyStore__
 
 #include "Error.hh"
-#include "forestdb.h"
 #include "slice.hh"
+#include <libforestdb/forestdb.h>
 
 namespace forestdb {
 
